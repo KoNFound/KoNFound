@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @KoNFound
 - 👀 I’m interested in HTML, CSS, JS, Java, Python
-- 🌱 I’m currently learning Python, JS
